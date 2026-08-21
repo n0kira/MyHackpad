@@ -1,7 +1,9 @@
 # Nokira's Hackpad!
 Simple macropad with 6 keys, 1 rotary encoder and an OLED Display.
-Built Stardance!! (https://stardance.hackclub.com/missions/hackpad)
+
 This is an open-case hackpad. You could say it was because I don't know how to build a case... maybe. But I like how  everything turned out.
+
+###### Built Stardance!! [Project page here](https://stardance.hackclub.com/projects/50923)
 
 ---
 
