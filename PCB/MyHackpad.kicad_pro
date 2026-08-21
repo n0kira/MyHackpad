@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../../Downloads/Prod/",
       "specctra_dsn": "",
       "step": "MyHackpad.step",
       "vrml": ""
