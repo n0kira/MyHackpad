@@ -5,7 +5,7 @@ This is an open-case hackpad. You could say it was because I don't know how to b
 
 #### Here is a [showcase](https://youtu.be/H9pZjf9lS04) of the finished hackpad (will change once I build it IRL) 
 
-###### Built Stardance!! [Project page here](https://stardance.hackclub.com/projects/50923)
+###### Built for Stardance!! [Project page here](https://stardance.hackclub.com/projects/50923)
 
 ---
 
