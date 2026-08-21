@@ -1,0 +1,48 @@
+{
+    "manufacturer": "Mattia",
+    "keyboard_name": "nokira_hackpad",
+    "maintainer": "n0kira",
+    "development_board": "promicro_rp2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "cols": ["GP0", "GP1", "GP2"],
+        "rows": ["GP3", "GP6"]
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP8", "pin_b": "GP9", "resolution": 4}
+        ]
+    },
+    "i2c": {
+        "driver": "I2CD1",
+        "sda": "GP4",
+        "scl": "GP5"
+    },
+    "url": "https://github.com/n0kira",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_2x3": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1}
+            ]
+        }
+    }
+}
